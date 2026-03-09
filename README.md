@@ -23,18 +23,18 @@ a Arek to największy kontrubutor projektu, dodał całą funkcjonalność
 ```bash
     npm install
 ```
-📚 Biblioteka – Najpotężniejszy System Biblioteczny (może)
+## 📚 Biblioteka – Najpotężniejszy System Biblioteczny (może)
 
 Projekt biblioteki stworzony przez trzech legendarnych programistów.
 Czy działa? Tak.
 Czy jest idealny? Jeszcze nie.
 Czy jest sigma? Zdecydowanie.
 
-🧠 O projekcie
+## 🧠 O projekcie
 
 To jest system zarządzania biblioteką, który pozwala ogarniać książki jak prawdziwy bibliotekarski boss.
 
-Możesz:
+## Możesz:
 
 📖 dodawać książki
 
@@ -44,7 +44,7 @@ Możesz:
 
 ↩️ oddawać książki (jeśli pamiętasz żeby oddać 👀)
 
-⚡ Funkcje
+## ⚡ Funkcje
 
 ✔️ dodawanie książek
 ✔️ przeglądanie książek
@@ -52,18 +52,18 @@ Możesz:
 ✔️ zwracanie
 ✔️ 100% więcej sigmy niż przeciętny projekt
 
-🧑‍💻 Dev Team (Avengersi tej biblioteki)
+## 🧑‍💻 Dev Team (Avengersi tej biblioteki)
 Imię	Rola	Status
 Zwis	jest leszczem	🧠
 Gorilla	ogarnia chaos	🦍
 Sigma	sigma mindset	🗿
-🗂️ Struktura projektu
+## 🗂️ Struktura projektu
 biblioteka/
  ├─ src/        # kod który jakoś działa
  ├─ data/       # książki
  ├─ README.md   # to co właśnie czytasz
  └─ ???         # nawet my nie wiemy
-🚀 Jak uruchomić
+## 🚀 Jak uruchomić
 
 Sklonuj repo:
 
@@ -74,18 +74,19 @@ Wejdź do folderu:
 cd biblioteka
 
 Uruchom program i módl się żeby działał:
-
-python main.py
-🧪 Status projektu
+```bash
+    npm install
+```
+## 🧪 Status projektu
 [██████████░░░░░░░░] 50%
 
 czyli klasyczne "działa na moim komputerze"
 
-📜 Licencja
+## 📜 Licencja
 
 Możesz używać, kopiować i pokazywać nauczycielowi żeby dostać lepszą ocenę.
 
-🗿 Motto projektu
+## 🗿 Motto projektu
 
 "Nie ma bugów, są tylko nieudokumentowane funkcje."
 
