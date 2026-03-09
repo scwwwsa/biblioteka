@@ -67,7 +67,7 @@ biblioteka/
 
 Sklonuj repo:
 
-git clone https://github.com/twoj-login/biblioteka.git
+git clone https://github.com/scwwwsa/biblioteka
 
 Wejdź do folderu:
 
